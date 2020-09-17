@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 workflow practice
 taeyoon
 minjae
 hongil_test
 hongil_test_2nd
+=======
+workflow practice conflict test
+>>>>>>> a485a9aa21c039f94f31055bce4a7a9c999f5d18
